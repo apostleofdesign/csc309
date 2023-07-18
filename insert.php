@@ -15,7 +15,7 @@
 
     // Create a Table
     $sql = "INSERT INTO users (firstname, lastname, email) 
-    VALUES ('Nwafor', 'Benjamin', 'benjaminn@gmail.com')";
+    VALUES ('Mba', 'Daniel', 'dannyamarachukwu@gmail.com'), ‘M’,’2001/12/13’ ;
 
     $result = $con->query($sql);
 
